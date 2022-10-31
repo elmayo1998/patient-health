@@ -1,3 +1,3 @@
-# patient-health
-Machine Learning project.
-Prevedere possibili casi di ictus nei pazienti.
+#patient-health
+Machine Learning: binary classification problem.
+Predict possible cases of stroke among patients in the database.
